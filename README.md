@@ -1,16 +1,14 @@
-# rive_animations
+# Animated App with Rive and Flutter
 
-A new Flutter project.
+An Animated App with Rive and Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for practice using Rive for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+As you can see a beautiful background animation using shapes and blur. As well as a cool button animation. Once we tap on the sign-in button a loading animation shows. If there is any error it shows an error animation. It will load and have a successful animation with confetti if everything is okay. Also on the bottom navigation bar, we have animated icons that really make your app design stand out more.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+So, what is really surprising about this is that we're using animated assets, which means that these icon animations are not made in code. Instead, they're made in Rive which is a really cool animation tool that lets you create animated assets for your website, iOS, Android, and most importantly Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Animated App with Rive and Flutter
+![image]https://github.com/yzu1062039/Animated-App-with-Rive-and-Flutter/blob/master/gif.gif
