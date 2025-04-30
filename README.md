@@ -11,4 +11,4 @@ As you can see a beautiful background animation using shapes and blur. As well a
 So, what is really surprising about this is that we're using animated assets, which means that these icon animations are not made in code. Instead, they're made in Rive which is a really cool animation tool that lets you create animated assets for your website, iOS, Android, and most importantly Flutter.
 
 ### Animated App with Rive and Flutter
-![image]https://github.com/yzu1062039/Animated-App-with-Rive-and-Flutter/blob/master/gif.gif
+![image](https://github.com/yzu1062039/Animated-App-with-Rive-and-Flutter/blob/master/gif.gif)
